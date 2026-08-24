@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Commute papers</title>
+    <link>https://github.com/timverheyden/study-audio</link>
+    <language>en</language>
+    <copyright>Tim Verheyden</copyright>
+    <description>Private study feed of fifteen-minute paper briefings and longer cluster overviews for commute listening. Unlisted; not a public show.</description>
+    <itunes:author>Tim Verheyden</itunes:author>
+    <itunes:summary>Private study feed of fifteen-minute paper briefings and longer cluster overviews for commute listening. Unlisted; not a public show.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tim Verheyden</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Education"/>
+    <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/commute.jpg"/>
+    <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/commute.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Reported versus estimated emissions</title>
+      <description>Longer overview. Hygiene grid for reported versus estimated emissions in climate and sustainability data.</description>
+      <guid isPermaLink="false">commute-nl-reported-vs-estimated-emissions</guid>
+      <pubDate>Sun, 23 Aug 2026 16:45:47 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-reported-vs-estimated-emissions.m4a" type="audio/mp4" length="55381624"/>
+      <itunes:duration>00:28:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Insurer exit and municipal climate risk</title>
+      <description>Longer overview. Insurer exit and the delayed repricing of municipal climate risk.</description>
+      <guid isPermaLink="false">commute-nl-insurer-exit-muni-climate</guid>
+      <pubDate>Sun, 23 Aug 2026 16:17:04 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-insurer-exit-muni-climate.m4a" type="audio/mp4" length="60538046"/>
+      <itunes:duration>00:31:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Transition capital productivity</title>
+      <description>Longer overview. Same-asset abatement and financial value: transition capital productivity.</description>
+      <guid isPermaLink="false">commute-nl-transition-capital-productivity</guid>
+      <pubDate>Sun, 23 Aug 2026 15:52:08 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-transition-capital-productivity.m4a" type="audio/mp4" length="61573790"/>
+      <itunes:duration>00:31:53</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The point-in-time problem in ESG asset pricing</title>
+      <description>Longer overview. Vendor vintages and published results: the point-in-time problem in ESG asset pricing.</description>
+      <guid isPermaLink="false">commute-nl-esg-point-in-time-vintages</guid>
+      <pubDate>Sun, 23 Aug 2026 15:26:58 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-esg-point-in-time-vintages.m4a" type="audio/mp4" length="56625160"/>
+      <itunes:duration>00:29:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>From plans to plants</title>
+      <description>Longer overview. Transition execution, occupancy, and project-state outcomes rather than plan scores alone.</description>
+      <guid isPermaLink="false">commute-nl-from-plans-to-plants</guid>
+      <pubDate>Sun, 23 Aug 2026 14:53:50 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-from-plans-to-plants.m4a" type="audio/mp4" length="64213258"/>
+      <itunes:duration>00:33:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Pledges, plans, and transition metrics (cluster)</title>
+      <description>Longer cluster. Fliegel on transition-risk metrics, Bauer et al. on corporate green pledges, and Klein et al. on the credibility of transition plans.</description>
+      <guid isPermaLink="false">commute-cluster-pledges-plans-metrics</guid>
+      <pubDate>Sun, 23 Aug 2026 13:59:59 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-cluster-pledges-plans-metrics.m4a" type="audio/mp4" length="65545692"/>
+      <itunes:duration>00:33:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Planning to Fail (overview)</title>
+      <description>Longer overview of Klein, Polzin and Urbach, Planning to fail? Credibility and financing of corporate transition plans in hard-to-abate sectors, iScience, 2026.</description>
+      <guid isPermaLink="false">commute-nl-klein-planning-to-fail</guid>
+      <pubDate>Sat, 22 Aug 2026 21:38:58 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-klein-planning-to-fail.m4a" type="audio/mp4" length="40158881"/>
+      <itunes:duration>00:20:48</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Corporate Green Pledges (overview)</title>
+      <description>Longer overview of Bauer, Huber, Offner and Wilms, Corporate Green Pledges, 2026.</description>
+      <guid isPermaLink="false">commute-nl-bauer-green-pledges</guid>
+      <pubDate>Sat, 22 Aug 2026 21:24:10 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-bauer-green-pledges.m4a" type="audio/mp4" length="49506319"/>
+      <itunes:duration>00:25:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>How you measure transition risk matters (overview)</title>
+      <description>Longer overview of Philip Fliegel, How you measure transition risk matters, Journal of Corporate Finance, 2025.</description>
+      <guid isPermaLink="false">commute-nl-fliegel-transition-risk</guid>
+      <pubDate>Sat, 22 Aug 2026 21:06:37 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-fliegel-transition-risk.m4a" type="audio/mp4" length="40233701"/>
+      <itunes:duration>00:20:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>How you measure transition risk matters (15 min)</title>
+      <description>Fifteen-minute paper briefing. Philip Fliegel, How you measure transition risk matters, Journal of Corporate Finance, 2025.</description>
+      <guid isPermaLink="false">commute-15min-fliegel-transition-risk</guid>
+      <pubDate>Sat, 22 Aug 2026 14:40:25 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-15min-fliegel-transition-risk.m4a" type="audio/mp4" length="14778440"/>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>The Benchmark Greenium (15 min)</title>
+      <description>Fifteen-minute paper briefing. D'Amico, Klausmann and Pancost, The Benchmark Greenium, Journal of Financial Economics, 2026.</description>
+      <guid isPermaLink="false">commute-15min-benchmark-greenium</guid>
+      <pubDate>Sat, 22 Aug 2026 13:12:27 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-15min-benchmark-greenium.m4a" type="audio/mp4" length="14564198"/>
+      <itunes:duration>00:15:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
