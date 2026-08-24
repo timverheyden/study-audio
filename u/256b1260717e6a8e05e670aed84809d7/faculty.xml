@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Faculty lectures</title>
+    <title>Sustainable finance PhD course</title>
     <link>https://github.com/timverheyden/study-audio</link>
     <language>en</language>
     <copyright>Tim Verheyden</copyright>
-    <description>Private study feed of lecture walkthrough audio. Slide videos are not in this feed. Unlisted; not a public show.</description>
+    <description>Unlisted lecture audio for a sustainable-finance PhD course. Paper-anchored. Slide videos are not in this feed. Not a public show.</description>
     <itunes:author>Tim Verheyden</itunes:author>
-    <itunes:summary>Private study feed of lecture walkthrough audio. Slide videos are not in this feed. Unlisted; not a public show.</itunes:summary>
+    <itunes:summary>Unlisted lecture audio for a sustainable-finance PhD course. Paper-anchored. Slide videos are not in this feed. Not a public show.</itunes:summary>
     <itunes:owner>
       <itunes:name>Tim Verheyden</itunes:name>
     </itunes:owner>
@@ -31,7 +31,7 @@
     </item>
     <item>
       <title>Lecture 1: Value versus values</title>
-      <description>Walkthrough audio for lecture 1 of an MSc Sustainable Finance elective. What the course will claim, and what it will not. Edmans, The End of ESG; Pastor, Stambaugh and Taylor, Sustainable Investing. Slide video is not included.</description>
+      <description>Walkthrough audio for PhD course, lecture 1. What the course will claim, and what it will not. Edmans, The End of ESG; Pastor, Stambaugh and Taylor, Sustainable Investing. Slide video is not included.</description>
       <guid isPermaLink="false">faculty-01-value-versus-values</guid>
       <pubDate>Mon, 24 Aug 2026 10:54:50 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-01-value-versus-values.m4a" type="audio/mp4" length="6542515"/>
