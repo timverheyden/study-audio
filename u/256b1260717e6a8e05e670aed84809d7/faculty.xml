@@ -18,6 +18,18 @@
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/faculty.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Lecture 1: The economics of value versus values (NotebookLM)</title>
+      <description>Longer second-pass audio of Edmans The End of ESG, Pástor-Stambaugh-Taylor Sustainable Investing, and Pomorski ch.1. Not a substitute for reading the papers. Distinct from the 8-minute slide walkthrough.</description>
+      <guid isPermaLink="false">faculty-01-notebooklm-value-versus-values</guid>
+      <pubDate>Mon, 24 Aug 2026 11:11:25 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-01-notebooklm-value-versus-values.m4a" type="audio/mp4" length="64274607"/>
+      <itunes:duration>00:33:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 1: The economics of value versus values (NotebookLM)</itunes:title>
+    </item>
+    <item>
       <title>Lecture 1: Value versus values</title>
       <description>Walkthrough audio for lecture 1 of an MSc Sustainable Finance elective. What the course will claim, and what it will not. Edmans, The End of ESG; Pastor, Stambaugh and Taylor, Sustainable Investing. Slide video is not included.</description>
       <guid isPermaLink="false">faculty-01-value-versus-values</guid>
