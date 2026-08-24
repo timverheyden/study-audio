@@ -16,7 +16,7 @@
     <itunes:type>serial</itunes:type>
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
-    <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/faculty.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/course.xml" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Mon, 24 Aug 2026 16:56:01 GMT</lastBuildDate>
     <item>
       <title>Lecture 1: Value versus values</title>
