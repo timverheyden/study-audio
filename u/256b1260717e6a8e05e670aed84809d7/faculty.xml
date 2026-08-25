@@ -17,7 +17,20 @@
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/faculty.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 16:03:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:21:34 GMT</lastBuildDate>
+    <item>
+      <title>Lecture 9 — Voice, votes, and why firms listen</title>
+      <description>Session 9 of Sustainable finance PhD course. Voice versus exit, and why a documented engagement outcome is the standard, not a cleaner portfolio. No Dimson–Karakaş–Li active-ownership paper was in the notebook for this recording. The recording is not a substitute for reading the papers.</description>
+      <itunes:subtitle>Broccardo–Hart–Zingales; Edmans The End of ESG; Pomorski. After exit’s arithmetic, when can voice change a decision.</itunes:subtitle>
+      <guid isPermaLink="false">faculty-09-notebooklm-voice-votes-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 16:21:34 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-09-voice-votes.m4a" type="audio/mp4" length="33303860"/>
+      <itunes:duration>00:17:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 9 — Voice, votes, and why firms listen</itunes:title>
+    </item>
     <item>
       <title>Lecture 8 — Impact elasticities and leakage</title>
       <description>Session 8 of Sustainable finance PhD course. Why secondary-market decarbonisation usually changes the portfolio before the world, and where impact claims can survive a counterfactual. The recording is not a substitute for reading the papers.</description>
