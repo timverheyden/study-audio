@@ -17,7 +17,31 @@
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/faculty.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 16:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:32:56 GMT</lastBuildDate>
+    <item>
+      <title>Lecture 3 — Flows, not alpha</title>
+      <description>Seminar session on van der Beck Flow-Driven ESG Returns and Giglio et al. Four Facts. Not a substitute for reading the papers.</description>
+      <guid isPermaLink="false">faculty-03-notebooklm-flows-not-alpha-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 08:07:10 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-03-flows-not-alpha.m4a" type="audio/mp4" length="43287144"/>
+      <itunes:duration>00:22:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 3 — Flows, not alpha</itunes:title>
+    </item>
+    <item>
+      <title>Lecture 2 — ESG-integration and the ESG-efficient frontier</title>
+      <description>Seminar session on Pedersen–Fitzgibbons–Pomorski (ESG-efficient frontier) and Pastor–Stambaugh–Taylor Green Tilts. Not a substitute for reading the papers.</description>
+      <guid isPermaLink="false">faculty-02-notebooklm-esg-frontier-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 07:53:36 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-02-esg-frontier.m4a" type="audio/mp4" length="43311797"/>
+      <itunes:duration>00:22:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 2 — ESG-integration and the ESG-efficient frontier</itunes:title>
+    </item>
     <item>
       <title>Lecture 1: Value versus values</title>
       <description>Starks JF 2023, Edmans The End of ESG, Pástor-Stambaugh-Taylor, Pomorski ch.1.</description>

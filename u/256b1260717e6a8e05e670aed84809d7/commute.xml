@@ -19,8 +19,9 @@
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/commute.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Value versus Values (Starks JF 2023)</title>
-      <description>Paper-only deep-dive of Starks JF 2023 presidential address. Not a substitute for reading.</description>
+      <title>Presidential Address: Sustainable Finance and ESG Issues—Value versus Values</title>
+      <itunes:subtitle>Starks, Laura T. 2023. “Presidential Address: Sustainable Finance and ESG Issues—Value versus Values.” Journal of Finance.</itunes:subtitle>
+      <description>Starks, Laura T. 2023. “Presidential Address: Sustainable Finance and ESG Issues—Value versus Values.” Journal of Finance. Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-starks-value-versus-values-v2-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 12:37:54 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-starks-2023-value-versus-values-v2.m4a" type="audio/mp4" length="38407990"/>
@@ -29,8 +30,9 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Sustainable Investing (Pástor, Stambaugh, Taylor ARFE 2025)</title>
-      <description>Paper-only deep-dive of Pástor, Stambaugh and Taylor, Sustainable Investing, Annual Review of Financial Economics. Not a substitute for reading.</description>
+      <title>Sustainable Investing</title>
+      <itunes:subtitle>Pástor, Ľuboš, Robert F. Stambaugh, and Lucian A. Taylor. 2025. “Sustainable Investing.” Annual Review of Financial Economics 17.</itunes:subtitle>
+      <description>Pástor, Ľuboš, Robert F. Stambaugh, and Lucian A. Taylor. 2025. “Sustainable Investing.” Annual Review of Financial Economics 17. Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-pst-sustainable-investing-v2-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 12:53:11 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-pastor-stambaugh-taylor-2025-sustainable-investing-v2.m4a" type="audio/mp4" length="39663478"/>
@@ -39,8 +41,9 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>The End of ESG (Edmans RCFS 2023)</title>
-      <description>Paper-only deep-dive of Edmans, The End of ESG, Review of Corporate Finance Studies 2023. Not a substitute for reading.</description>
+      <title>The End of ESG</title>
+      <itunes:subtitle>Edmans, Alex. 2023. “The End of ESG.” Financial Management.</itunes:subtitle>
+      <description>Edmans, Alex. 2023. “The End of ESG.” Financial Management. Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-edmans-end-of-esg-v2-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 13:10:00 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-edmans-2023-the-end-of-esg-v2.m4a" type="audio/mp4" length="42572744"/>
@@ -49,58 +52,9 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Reported versus estimated emissions</title>
-      <description>Longer overview. Hygiene grid for reported versus estimated emissions in climate and sustainability data.</description>
-      <guid isPermaLink="false">commute-nl-reported-vs-estimated-emissions</guid>
-      <pubDate>Sun, 23 Aug 2026 16:45:47 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-reported-vs-estimated-emissions.m4a" type="audio/mp4" length="55381624"/>
-      <itunes:duration>00:28:41</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Insurer exit and municipal climate risk</title>
-      <description>Longer overview. Insurer exit and the delayed repricing of municipal climate risk.</description>
-      <guid isPermaLink="false">commute-nl-insurer-exit-muni-climate</guid>
-      <pubDate>Sun, 23 Aug 2026 16:17:04 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-insurer-exit-muni-climate.m4a" type="audio/mp4" length="60538046"/>
-      <itunes:duration>00:31:21</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Transition capital productivity</title>
-      <description>Longer overview. Same-asset abatement and financial value: transition capital productivity.</description>
-      <guid isPermaLink="false">commute-nl-transition-capital-productivity</guid>
-      <pubDate>Sun, 23 Aug 2026 15:52:08 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-transition-capital-productivity.m4a" type="audio/mp4" length="61573790"/>
-      <itunes:duration>00:31:53</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>The point-in-time problem in ESG asset pricing</title>
-      <description>Longer overview. Vendor vintages and published results: the point-in-time problem in ESG asset pricing.</description>
-      <guid isPermaLink="false">commute-nl-esg-point-in-time-vintages</guid>
-      <pubDate>Sun, 23 Aug 2026 15:26:58 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-esg-point-in-time-vintages.m4a" type="audio/mp4" length="56625160"/>
-      <itunes:duration>00:29:19</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>From plans to plants</title>
-      <description>Longer overview. Transition execution, occupancy, and project-state outcomes rather than plan scores alone.</description>
-      <guid isPermaLink="false">commute-nl-from-plans-to-plants</guid>
-      <pubDate>Sun, 23 Aug 2026 14:53:50 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-from-plans-to-plants.m4a" type="audio/mp4" length="64213258"/>
-      <itunes:duration>00:33:15</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Planning to Fail (overview)</title>
-      <description>Longer overview of Klein, Polzin and Urbach, Planning to fail? Credibility and financing of corporate transition plans in hard-to-abate sectors, iScience, 2026.</description>
+      <title>Planning to Fail? Credibility and Financing of Corporate Transition Plans in Hard-to-Abate Sectors</title>
+      <itunes:subtitle>Klein, Stefanie, Friedemann Polzin, and Xander Urbach. 2026. “Planning to Fail? Credibility and Financing of Corporate Transition Plans in Hard-to-Abate Sectors.” iScience 29(6).</itunes:subtitle>
+      <description>Klein, Stefanie, Friedemann Polzin, and Xander Urbach. 2026. “Planning to Fail? Credibility and Financing of Corporate Transition Plans in Hard-to-Abate Sectors.” iScience 29(6). Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-klein-planning-to-fail</guid>
       <pubDate>Sat, 22 Aug 2026 21:38:58 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-klein-planning-to-fail.m4a" type="audio/mp4" length="40158881"/>
@@ -109,8 +63,9 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Corporate Green Pledges (overview)</title>
-      <description>Longer overview of Bauer, Huber, Offner and Wilms, Corporate Green Pledges, 2026.</description>
+      <title>Corporate Green Pledges</title>
+      <itunes:subtitle>Bauer, Michael, Daniel Huber, Eric Offner, and Ole Wilms. 2026. “Corporate Green Pledges.” Review of Financial Studies.</itunes:subtitle>
+      <description>Bauer, Michael, Daniel Huber, Eric Offner, and Ole Wilms. 2026. “Corporate Green Pledges.” Review of Financial Studies. Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-bauer-green-pledges</guid>
       <pubDate>Sat, 22 Aug 2026 21:24:10 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-bauer-green-pledges.m4a" type="audio/mp4" length="49506319"/>
@@ -119,8 +74,9 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>How you measure transition risk matters (overview)</title>
-      <description>Longer overview of Philip Fliegel, How you measure transition risk matters, Journal of Corporate Finance, 2025.</description>
+      <title>How you measure transition risk matters</title>
+      <itunes:subtitle>Fliegel, Philip. 2025. “How you measure transition risk matters.” Journal of Corporate Finance.</itunes:subtitle>
+      <description>Fliegel, Philip. 2025. “How you measure transition risk matters.” Journal of Corporate Finance. Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-fliegel-transition-risk</guid>
       <pubDate>Sat, 22 Aug 2026 21:06:37 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-fliegel-transition-risk.m4a" type="audio/mp4" length="40233701"/>
@@ -129,8 +85,9 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>The Benchmark Greenium (15 min)</title>
-      <description>Fifteen-minute paper briefing. D'Amico, Klausmann and Pancost, The Benchmark Greenium, Journal of Financial Economics, 2026.</description>
+      <title>The Benchmark Greenium</title>
+      <itunes:subtitle>D’Amico, Stefania, Johannes Klausmann, and N. Aaron Pancost. 2026. “The Benchmark Greenium.” Journal of Financial Economics 176.</itunes:subtitle>
+      <description>D’Amico, Stefania, Johannes Klausmann, and N. Aaron Pancost. 2026. “The Benchmark Greenium.” Journal of Financial Economics 176. Paper-only deep-dive. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-15min-benchmark-greenium</guid>
       <pubDate>Sat, 22 Aug 2026 13:12:27 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-15min-benchmark-greenium.m4a" type="audio/mp4" length="14564198"/>
