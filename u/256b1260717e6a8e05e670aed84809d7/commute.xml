@@ -39,12 +39,12 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>The End of ESG (Edmans 2023)</title>
-      <description>Paper-only briefing of Edmans, The End of ESG. Not a substitute for reading.</description>
-      <guid isPermaLink="false">commute-nl-edmans-end-of-esg-2026-08-25</guid>
-      <pubDate>Tue, 25 Aug 2026 07:21:00 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-edmans-2023-the-end-of-esg.m4a" type="audio/mp4" length="47691067"/>
-      <itunes:duration>00:24:41</itunes:duration>
+      <title>The End of ESG (Edmans RCFS 2023)</title>
+      <description>Paper-only deep-dive of Edmans, The End of ESG, Review of Corporate Finance Studies 2023. Not a substitute for reading.</description>
+      <guid isPermaLink="false">commute-nl-edmans-end-of-esg-v2-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 13:10:00 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-edmans-2023-the-end-of-esg-v2.m4a" type="audio/mp4" length="42572744"/>
+      <itunes:duration>00:22:02</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
