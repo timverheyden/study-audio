@@ -17,7 +17,20 @@
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/course.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 15:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:42:16 GMT</lastBuildDate>
+    <item>
+      <title>Lecture 7 — Building your own climate data</title>
+      <description>Session 7 of Sustainable finance PhD course. Point-in-time vintages, reported versus estimated emissions, and why restatements cannot enter a historical signal. The recording is not a substitute for reading the papers.</description>
+      <itunes:subtitle>Zhang (JF 2025) release-date discipline; Aswani–Raghunandan–Rajgopal estimated versus disclosed; Pomorski. A downloaded database is not 2016’s information set.</itunes:subtitle>
+      <guid isPermaLink="false">faculty-07-notebooklm-building-climate-data-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 15:42:16 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-07-building-climate-data.m4a" type="audio/mp4" length="34132674"/>
+      <itunes:duration>00:17:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 7 — Building your own climate data</itunes:title>
+    </item>
     <item>
       <title>Lecture 6 — Can ESG even be measured?</title>
       <description>Session 6 of Sustainable finance PhD course. Ratings disagreement, measurement error, and why aggregate ESG scores are a fragile object. The recording is not a substitute for reading the papers.</description>
