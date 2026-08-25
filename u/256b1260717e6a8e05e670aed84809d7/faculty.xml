@@ -17,7 +17,20 @@
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/faculty.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 14:32:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:53:12 GMT</lastBuildDate>
+    <item>
+      <title>Lecture 4 — Carbon, cash flows, and the look-ahead trap</title>
+      <description>Session 4 of Sustainable finance PhD course. Look-ahead in carbon returns (Zhang), estimated versus disclosed emissions (Aswani et al.), cash-flow versus discount-rate (Pomorski). Recording is not a substitute for reading the papers.</description>
+      <itunes:subtitle>Zhang (JF 2025), Aswani–Raghunandan–Rajgopal (RoF 2024), Pomorski ch. 3. Carbon premium versus investable information set.</itunes:subtitle>
+      <guid isPermaLink="false">faculty-04-notebooklm-carbon-look-ahead-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 14:53:12 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-04-carbon-look-ahead.m4a" type="audio/mp4" length="35746110"/>
+      <itunes:duration>00:18:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 4 — Carbon, cash flows, and the look-ahead trap</itunes:title>
+    </item>
     <item>
       <title>Lecture 3 — Flows, not alpha</title>
       <description>Seminar session on van der Beck Flow-Driven ESG Returns and Giglio et al. Four Facts. Not a substitute for reading the papers.</description>
