@@ -69,16 +69,6 @@
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
-      <title>Pledges, plans, and transition metrics (cluster)</title>
-      <description>Longer cluster. Fliegel on transition-risk metrics, Bauer et al. on corporate green pledges, and Klein et al. on the credibility of transition plans.</description>
-      <guid isPermaLink="false">commute-cluster-pledges-plans-metrics</guid>
-      <pubDate>Sun, 23 Aug 2026 13:59:59 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-cluster-pledges-plans-metrics.m4a" type="audio/mp4" length="65545692"/>
-      <itunes:duration>00:33:57</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>Planning to Fail (overview)</title>
       <description>Longer overview of Klein, Polzin and Urbach, Planning to fail? Credibility and financing of corporate transition plans in hard-to-abate sectors, iScience, 2026.</description>
       <guid isPermaLink="false">commute-nl-klein-planning-to-fail</guid>
@@ -105,16 +95,6 @@
       <pubDate>Sat, 22 Aug 2026 21:06:37 GMT</pubDate>
       <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-nl-fliegel-transition-risk.m4a" type="audio/mp4" length="40233701"/>
       <itunes:duration>00:20:50</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>How you measure transition risk matters (15 min)</title>
-      <description>Fifteen-minute paper briefing. Philip Fliegel, How you measure transition risk matters, Journal of Corporate Finance, 2025.</description>
-      <guid isPermaLink="false">commute-15min-fliegel-transition-risk</guid>
-      <pubDate>Sat, 22 Aug 2026 14:40:25 GMT</pubDate>
-      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-15min-fliegel-transition-risk.m4a" type="audio/mp4" length="14778440"/>
-      <itunes:duration>00:15:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
