@@ -17,7 +17,20 @@
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/faculty.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 16:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:38:50 GMT</lastBuildDate>
+    <item>
+      <title>Lecture 10 — Beyond stocks</title>
+      <description>Session 10 of Sustainable finance PhD course. Public equity is not the whole field: multi-asset construction, institutional tilts, household beliefs, and honest claim language. The recording is not a substitute for reading the papers.</description>
+      <itunes:subtitle>Blitz et al. 3D investing; Pástor–Stambaugh–Taylor Green Tilts; Giglio et al. four facts about ESG beliefs; Pomorski. Four claims stay separate.</itunes:subtitle>
+      <guid isPermaLink="false">faculty-10-notebooklm-beyond-stocks-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 16:38:50 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-10-beyond-stocks.m4a" type="audio/mp4" length="32639511"/>
+      <itunes:duration>00:16:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 10 — Beyond stocks</itunes:title>
+    </item>
     <item>
       <title>Lecture 9 — Voice, votes, and why firms listen</title>
       <description>Session 9 of Sustainable finance PhD course. Voice versus exit, and why a documented engagement outcome is the standard, not a cleaner portfolio. No Dimson–Karakaş–Li active-ownership paper was in the notebook for this recording. The recording is not a substitute for reading the papers.</description>
