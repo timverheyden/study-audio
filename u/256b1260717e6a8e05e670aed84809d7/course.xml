@@ -17,7 +17,20 @@
     <itunes:category text="Education"/>
     <itunes:image href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/covers/faculty.jpg"/>
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/course.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 15:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:25:53 GMT</lastBuildDate>
+    <item>
+      <title>Lecture 6 — Can ESG even be measured?</title>
+      <description>Session 6 of Sustainable finance PhD course. Ratings disagreement, measurement error, and why aggregate ESG scores are a fragile object. The recording is not a substitute for reading the papers.</description>
+      <itunes:subtitle>Avramov ESG rating uncertainty; Berg ESG confusion and returns; Pomorski. A composite score is not one economic variable.</itunes:subtitle>
+      <guid isPermaLink="false">faculty-06-notebooklm-can-esg-be-measured-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 15:25:53 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/faculty-06-can-esg-be-measured.m4a" type="audio/mp4" length="36127963"/>
+      <itunes:duration>00:18:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:title>Lecture 6 — Can ESG even be measured?</itunes:title>
+    </item>
     <item>
       <title>Lecture 5 — The greenium</title>
       <description>Session 5 of Sustainable finance PhD course. Preferences, expected versus realised green returns, institutional tilts, and flow-driven performance. D’Amico Bund-twin identification is not in this recording. The recording is not a substitute for reading the papers.</description>
