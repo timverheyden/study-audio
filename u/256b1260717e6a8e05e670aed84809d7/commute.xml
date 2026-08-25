@@ -19,6 +19,16 @@
     <atom:link href="https://raw.githubusercontent.com/timverheyden/study-audio/main/u/256b1260717e6a8e05e670aed84809d7/commute.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>The End of ESG (Edmans 2023)</title>
+      <description>Paper-only briefing of Edmans, The End of ESG. Not a substitute for reading.</description>
+      <guid isPermaLink="false">commute-nl-edmans-end-of-esg-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 07:21:00 GMT</pubDate>
+      <enclosure url="https://github.com/timverheyden/study-audio/releases/download/v1/commute-edmans-2023-the-end-of-esg.m4a" type="audio/mp4" length="47691067"/>
+      <itunes:duration>00:24:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>Value versus values (Starks JF 2023)</title>
       <description>Paper-only briefing of Starks JF 2023 presidential address. Not a substitute for reading.</description>
       <guid isPermaLink="false">commute-nl-starks-value-versus-values-2026-08-25</guid>
